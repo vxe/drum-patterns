@@ -1,0 +1,7 @@
+# -*- mode:org -*-
+#+TITLE: Overtone Drum Patterns
+#+STARTUP: indent
+#+OPTIONS: toc:nil
+Synthy percussion
+
+** Overview :TOC:
